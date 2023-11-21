@@ -7,11 +7,13 @@ const manifest = {
 	"catalogs": [
 		{
 			"type": "movie",
-			"id": "top"
+			"id": "top",
+			"name": "Popular"
 		},
 		{
 			"type": "series",
-			"id": "top"
+			"id": "top",
+			"name": "Popular"
 		}
 	],
 	"resources": [

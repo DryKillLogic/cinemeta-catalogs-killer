@@ -21,8 +21,8 @@ const manifest = {
 		"movie",
 		"series"
 	],
-	"name": "cinemeta",
-	"description": "Cinemeta Catalogs Killer"
+	"name": "Cinemeta Catalogs Killer",
+	"description": "Disables default Cinemeta catalogs"
 }
 const builder = new addonBuilder(manifest)
 

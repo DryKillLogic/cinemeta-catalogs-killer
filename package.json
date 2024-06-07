@@ -1,0 +1,11 @@
+{
+	"name": "stremio-addon-cinemeta",
+	"version": "0.0.1",
+	"description": "Cinemeta Catalogs Killer",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"stremio-addon-sdk": "1.1.x"
+	}
+}
